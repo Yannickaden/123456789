@@ -1,0 +1,26 @@
+body{
+    font-family: 'Orbitron', sans-serif;
+    background-color: khaki;
+    background-position: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+.header_div{
+    color: rgb(0, 0, 0);
+}
+.main_div button{
+background-color: rgb(238, 255, 0);
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.footer{
+    width: 100%;
+    bottom:0;
+    position: fixed;
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(0, 0, 0);
+    line-height: 2;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+    box-shadow: 5px 5px 5px 8.5px rgb(0, 0, 0);
+}
